@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I’m Charmaine <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;</h1>
+<h1 align="center">Hi, I’m Charmaine</h1>
 
-I’m a Biomedical Scientist with over five years of experience in healthcare. I recently completed the Code First Girls Degree in Software and Data Engineering and I’m now transitioning into tech. I’m actively looking for a Junior Software Engineering or Data Analyst role where I can keep learning and start contributing to real world projects.
+I’m a Biomedical Scientist with over five years of experience in healthcare. I recently completed the Code First Girls Degree in Software and Data Engineering and I’m now transitioning into tech. I’m actively looking for a role in Technology and Digital Transformation where I can keep learning and start contributing to real world projects.
 
 I bring a strong analytical mindset, attention to detail, and experience working in high pressure environments. I’m excited to apply these skills while building my foundation in software development and data work.
 
@@ -8,7 +8,7 @@ I bring a strong analytical mindset, attention to detail, and experience working
   
 * 📈 Currently focused on personal and professional development
 * 🌱 Learning Python and SQL
-* 👩‍💻 Seeking a Junior Software Engineering or Data Analyst role
+* 👩‍💻 Seeking a role in Technology and Digital Transformation
 * 🪄 Open to guidance and mentorship during my transition into tech
 
 **Fun fact**
