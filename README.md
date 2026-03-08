@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I’m Charmaine</h1>
 
-I’m a Biomedical Scientist with over five years of experience in healthcare. I recently completed the Code First Girls Degree in Software and Data Engineering and I’m now transitioning into tech. I’m actively looking for a role in Technology and Digital Transformation where I can keep learning and start contributing to real world projects.
+**[→ View my interactive project portfolio](https://mariano-char.github.io/projects/)**
+
+Aspiring Software Engineer. I am a registered Biomedical Scientist with over five years of experience in healthcare. I recently completed the Code First Girls Degree in Software and Data Engineering and I’m now transitioning into tech. I’m actively looking for a role in Technology and Digital Transformation where I can keep learning and start contributing to real world projects.
 
 I bring a strong analytical mindset, attention to detail, and experience working in high pressure environments. I’m excited to apply these skills while building my foundation in software development and data work.
 
@@ -11,10 +13,7 @@ I bring a strong analytical mindset, attention to detail, and experience working
 * 👩‍💻 Seeking a role in Technology and Digital Transformation
 * 🪄 Open to guidance and mentorship during my transition into tech
 
-**Fun fact**
 
-* 🍜 Big foodie with a serious love for black garlic ramen
-* 🏸 I play badminton and a bit of tennis
 
 **Language, Tools & Platforms** 
 <div align="left"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
