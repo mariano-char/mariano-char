@@ -2,15 +2,14 @@
 
 **[→ View my interactive project portfolio](https://mariano-char.github.io/projects/)**
 
-Aspiring Software Engineer. I am a registered Biomedical Scientist with over five years of experience in healthcare. I recently completed the Code First Girls Degree in Software and Data Engineering and I’m now transitioning into tech. I’m actively looking for a role in Technology and Digital Transformation where I can keep learning and start contributing to real world projects.
+I am a registered Biomedical Scientist with over five years of experience in healthcare. I have completed a 16-week intensive Code First Girls Degree in Software and Data Engineering and I am now transitioning into tech. I bring a strong analytical mindset, attention to detail, and experience working in high pressure environments. I am excited to apply these skills while building my foundation in software development and data work. *I am actively looking for a role in technology and data analytics field where I can apply my skills and to keep learning and start contributing to real world projects.*
 
-I bring a strong analytical mindset, attention to detail, and experience working in high pressure environments. I’m excited to apply these skills while building my foundation in software development and data work.
 
 **A bit about me**
   
-* 📈 Currently focused on personal and professional development
-* 🌱 Learning Python and SQL
-* 👩‍💻 Seeking a role in Technology and Digital Transformation
+* 📈 Driven to continue personal and professional development
+* 🌱 Python, SQL, Microsoft Excel (formulas, pivot tables, dashboards), Tableau
+* 👩‍💻 Seeking a role in Technology and Data Analytics
 * 🪄 Open to guidance and mentorship during my transition into tech
 
 
@@ -20,7 +19,8 @@ I bring a strong analytical mindset, attention to detail, and experience working
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80"></div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80"> & Tableau</div>
+
 
 **Skills & Specialisations**
 - [X] Programming Concepts: Object-Oriented Programming (OOP), Data Structures
